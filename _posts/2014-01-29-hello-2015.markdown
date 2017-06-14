@@ -19,9 +19,7 @@ tags:
 
 入院了。
 
-![img](/img/post-bg-2015-1.jpg)
-![img](img/post-bg-2015.jpg)
-<img src="img/post-bg-2015.jpg" width="350"/>
+![img](/www/img/post-bg-2015-1.jpg)
 
 
 
