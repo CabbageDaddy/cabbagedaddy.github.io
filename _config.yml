@@ -23,12 +23,18 @@ twitter_username:
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+source: /Users/wangwei/Documents/GitHub/www
+destination: /Users/wangwei/Sites
 highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
+# Serving
+detach: false
+port: 4000
+host: 127.0.0.1
 
 
 # Gems
@@ -50,10 +56,10 @@ kramdown:
 # Disqus settings
 # disqus_username: hux
 
-# # Netease setttings
-# netease_comment: true
+# Netease setttings
+netease_comment: false
 
-# # Duoshuo settings
+# Duoshuo settings
 # duoshuo_username: huxblog
 # # Share component is depend on Comment so we can NOT use share only.
 # duoshuo_share: true                     # set to false if you want to use Comment without Sharing
@@ -72,23 +78,59 @@ kramdown:
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar: false                           # whether or not using Sidebar.
+sidebar-about-description: "吃了睡，睡了吃，无拘无束"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
+# chrome-tab-theme-color: "#000000"
+# service-worker: true
 
 
 
-# Friends (delete)
+# Friends
+# friends: [
+#     {
+#     #     title: "Su",
+#     #     href: "http://su.gallery/"
+#     # },{
+#         title: "乱序",
+#         href: "http://mida.re/"
+#     },{
+#         title: "前端外刊评论",
+#         href: "http://qianduan.guru/"
+#     },{
+#         title: "天镶的博客",
+#         href: "http://lingyu.wang/"
+#     },{
+#         title: "Luke 的自留地",
+#         href: "http://hmqk1995.github.io"
+#     },{
+#         title: "Ebn's Blog",
+#         href: "http://ebnbin.com/"
+#     },{
+#         title: "SmdCn's Blog",
+#         href: "http://blog.smdcn.net"
+#     },{
+#         title: "解旻的博客",
+#         href: "http://xieminis.me/"
+#     },{
+#         title: "DHong Say",
+#         href: "http://dhong.co"
+#     },{
+#         title: "尹峰以为",
+#         href: "http://ingf.github.io/"
+#     },{
+#         title: "前端神盾局",
+#         href: "http://wepiaofei.github.io/blog/"
+#     }
+# ]
 
