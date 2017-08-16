@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="她是一个活泼可爱的家养小精灵">
     <meta name="keywords"  content="闪闪，Cabbage Daddy">
-    <meta name="theme-color" content="#000000">
+    <meta name="theme-color" content="">
     
     <title>闪闪的成长日记</title>
 
@@ -19,7 +19,7 @@
     <link rel="shortcut icon" href="/img/favicon.ico">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://huangxuan.me/">
+    <link rel="canonical" href="https://cabbagedaddy.github.io/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -78,18 +78,6 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="/">Home</a>
-                    </li>
-                    
-                    <li>
-                        <a href="/about/">About</a>
-                    </li>
-                    
-                    <li>
-                        <a href="/portfolio/">Portfolio</a>
-                    </li>
-                    
-                    <li>
-                        <a href="/tags/">Tags</a>
                     </li>
                     
                 </ul>
@@ -172,19 +160,12 @@
 <div class="container">
 	<div class="row">
         
-
-<!-- USE SIDEBAR -->
+<!-- NO SIDEBAR -->
     <!-- PostList Container -->
-    		<div class="
-                col-lg-8 col-lg-offset-1
-                col-md-8 col-md-offset-1
-                col-sm-12
-                col-xs-12
-                postlist-container
-            ">
-    			
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 postlist-container">
+                
 <div class="post-preview">
-    <a href="/2016/05/25/hello-2015/">
+    <a href="/2017/05/25/hello-2015/">
         <h2 class="post-title">
             Hello Winky
         </h2>
@@ -215,14 +196,14 @@
 妈妈疼的脱了力，我负气一眼都没有看她。
 
 
-八斤七两，肥头大耳
+七斤七两，肥头大耳
 
 
 
         </div>
     </a>
     <p class="post-meta">
-        Posted by Max on May 25, 2016
+        Posted by Max on May 25, 2017
     </p>
 </div>
 <hr>
@@ -231,71 +212,19 @@
 <!-- Pager -->
 
 
-    		</div>
+            </div>
     <!-- Sidebar Container -->
             <div class="
-                col-lg-3 col-lg-offset-0
-                col-md-3 col-md-offset-0
-                col-sm-12
-                col-xs-12
-                sidebar-container
-            ">
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
                 <!-- Featured Tags -->
                 
-                <section>
-                    <hr class="hidden-sm hidden-xs">
-                    <h5><a href="/tags/">FEATURED TAGS</a></h5>
-                    <div class="tags">
-                        
-                            
-                        
-                    </div>
-                </section>
-                
 
-                <!-- Short About -->
-                <section class="visible-md visible-lg">
-                    <hr><h5><a href="/about/">ABOUT ME</a></h5>
-                    <div class="short-about">
-                        
-                            <img src="/img/avatar-hux.jpg" />
-                        
-                        
-                            <p>写写代码，做做设计，<br>离开世界之前，一切都是过程</p>
-                        
-                        <!-- SNS Link -->
-                        <ul class="list-inline">
-                            
-                            
-                            
-                            
-                            <li>
-                                <a target="_blank" href="http://weibo.com/kmy10489871">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a>
-                            </li>
-                            
-                            
-                            
-                            <li>
-                                <a target="_blank" href="https://github.com/Cabbage Daddy">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a>
-                            </li>
-                            
-                            
-                        </ul>
-                    </div>
-                </section>
                 <!-- Friends Blog -->
                 
-    		</div>
+            </div>
         
 	</div>
 </div>
@@ -313,27 +242,9 @@
                     <!-- add Weibo, Zhihu by Hux, add target = "_blank" to <a> by Hux -->
                     
                     
-                    <li>
-                        <a target="_blank" href="http://weibo.com/kmy10489871">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    
 
 
                     
-                    
-                    <li>
-                        <a target="_blank" href="https://github.com/Cabbage Daddy">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
                     
                     
                 </ul>
@@ -362,16 +273,6 @@
 <script src="/js/hux-blog.min.js "></script>
 
 <!-- Service Worker -->
-
-<script type="text/javascript">
-    if(navigator.serviceWorker){
-        // For security reasons, a service worker can only control the pages that are in the same directory level or below it. That's why we put sw.js at ROOT level.
-        navigator.serviceWorker
-            .register('/sw.js')
-            .then((registration) => {console.log('Service Worker Registered. ', registration)})
-            .catch((error) => {console.log('ServiceWorker registration failed: ', error)})
-    }
-</script>
 
 
 
@@ -428,15 +329,6 @@
         if($nav) FastClick.attach($nav);
     })
 </script>
-
-
-<!-- Google Analytics -->
-
-
-
-<!-- Baidu Tongji -->
-
-
 
 
 <!-- Side Catalog -->
