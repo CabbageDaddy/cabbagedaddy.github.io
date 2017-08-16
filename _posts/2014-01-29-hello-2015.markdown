@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello Winky"
 subtitle:   " \"Welcome to the world\""
-date:       2016-05-25 10:35:00
+date:       2017-05-25 10:35:00
 author:     "Max"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -16,12 +16,12 @@ tags:
 # 准备工作
 
 在家刚刚吃完水果，娇憨的妈妈
-![img](/www/img/post-bg-2015-0.jpg)
+![img](img/post-bg-2015-0.jpg)
 
 2017.05.23 00:00:01 
 
 入院了。
-![img](/www/img/post-bg-2015-1.jpg)
+![img](img/post-bg-2015-1.jpg)
 我们期待着、想象着闪闪的到来，不曾担心生产时的任何痛苦
 
 
@@ -29,9 +29,9 @@ tags:
 
 随着一声啼哭，她出现了。
 妈妈疼的脱了力，我负气一眼都没有看她。
-![img](/www/img/post-bg-2015-2.jpg)
+![img](img/post-bg-2015-2.jpg)
 
 七斤七两，肥头大耳
-![img](/www/img/post-bg-2015-3.jpg)
+![img](img/post-bg-2015-3.jpg)
 
 
