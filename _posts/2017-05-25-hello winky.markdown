@@ -16,12 +16,12 @@ tags:
 # 准备工作
 
 在家刚刚吃完水果，娇憨的妈妈
-![img](img/post-bg-2015-0.jpg)
+![img](/img/post-bg-2015-0.jpg)
 
 2017.05.23 00:00:01 
 
 入院了。
-![img](img/post-bg-2015-1.jpg)
+![img](/img/post-bg-2015-1.jpg)
 我们期待着、想象着闪闪的到来，不曾担心生产时的任何痛苦
 
 
@@ -32,6 +32,6 @@ tags:
 ![img](img/post-bg-2015-2.jpg)
 
 七斤七两，肥头大耳
-![img](img/post-bg-2015-3.jpg)
+![img](/img/post-bg-2015-3.jpg)
 
 
