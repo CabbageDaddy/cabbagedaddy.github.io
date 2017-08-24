@@ -7,7 +7,7 @@ author:     "Max"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+
 ---
 
 > “Life, it's on. ”

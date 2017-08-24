@@ -5,8 +5,8 @@
     <description>她是一个活泼可爱的家养小精灵</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 21 Aug 2017 10:21:56 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Aug 2017 10:21:56 +0800</lastBuildDate>
+    <pubDate>Wed, 23 Aug 2017 20:01:28 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Aug 2017 20:01:28 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -15,11 +15,12 @@
   &lt;p&gt;“One month old. ”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;##&lt;/p&gt;
+&lt;h2 id=&quot;日常的生活&quot;&gt;日常的生活&lt;/h2&gt;
 
-&lt;p&gt;在家刚刚吃完水果，娇憨的妈妈
+&lt;p&gt;一个月闪闪的世界，只有吃饭和睡觉
 &lt;img src=&quot;/img/post-bg-2015-0.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
+&lt;video src=&quot;/img/IMG_2367.MOV&quot; proload=&quot;proload&quot; width=&quot;60%&quot; controls=&quot;none&quot; autoplay=&quot;autoplay&quot;&gt;&lt;/video&gt;
 &lt;p&gt;2017.05.23 00:00:01&lt;/p&gt;
 
 &lt;p&gt;入院了。
@@ -39,8 +40,6 @@
         <pubDate>Sun, 25 Jun 2017 18:35:00 +0800</pubDate>
         <link>http://localhost:4000/2017/06/25/grow-up/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/06/25/grow-up/</guid>
-        
-        <category>生活</category>
         
         
       </item>
@@ -79,8 +78,6 @@
         <pubDate>Thu, 25 May 2017 18:35:00 +0800</pubDate>
         <link>http://localhost:4000/2017/05/25/hello-winky/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/05/25/hello-winky/</guid>
-        
-        <category>生活</category>
         
         
       </item>
