@@ -37,10 +37,8 @@ tags:
 ![img](/img/post-20170725-5.jpg)
 
 <br>有时候，我们也会没配合好 - -!
+![img](/img/post-20170725-6.jpg)
 
-<img src="/img/post-20170725-6.jpg" align="left"> 
-
-<img src="/img/post-20170725-7.jpg" align="left">
 
 
 
