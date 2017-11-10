@@ -4,7 +4,7 @@ title:      "You are my Sunshine"
 subtitle:   "You and me"
 date:       2017-07-25 10:35:00
 author:     "Max"
-header-img: "img/post-20170725-0.jpg"
+header-img: "img/post-20170725-0.JPG"
 catalog: true
 tags:
 
@@ -15,7 +15,7 @@ tags:
 
 <br><b>很荣幸</b>
 <br>我能陪伴在你身旁
-![img](/img/post-20170725-1.jpg)
+![img](/img/post-20170725-1.JPG)
 
 <br>我最喜欢你趴在我胸前睡着，此时的我，仿佛有力量保护住你的全部生命
 ![img](/img/post-20170725-2.JPG)
