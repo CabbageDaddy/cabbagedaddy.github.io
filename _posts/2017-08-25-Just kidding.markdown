@@ -26,7 +26,7 @@ tags:
 
 ## "Chapter 2" 
 <br>
-<br>Your brother said:"a girl looks even better with a nice smell"
+<br>Your brother said:"a girl looks even better with a nice smell."
 <br>"Edit Winky's picture now! Hurry up."
 
 Before
@@ -42,10 +42,10 @@ Before
 
 
 ## PS:
-<br>This is a photo of your brother
+<br>This is a photo of your brother.
 ![img](/img/post-20170825-6.JPG)
-<br>Sorry! Sorry! the picture is wrong
-<br>It is him now
+<br>Sorry! Sorry! the picture is wrong.
+<br>It is him now.
 ![img](/img/post-20170825-7.JPG)
 
 ## "Father's Talk" 
