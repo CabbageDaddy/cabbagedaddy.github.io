@@ -27,7 +27,7 @@ tags:
 ## "Chapter 2" 
 <br>
 <br>Your brother said:"a girl looks even better with a nice smell"
-<<br>"Edit Winky's picture now! Hurry up."
+<br>"Edit Winky's picture now! Hurry up."
 
 Before
 ![img](/img/post-20170825-3.JPG)
@@ -39,7 +39,7 @@ Before
 <br>
 <br>Your brother photoshoped your pictures. 
 ![img](/img/post-20170825-5.JPG)
-<br>
+
 
 ## PS:
 <br>This is a photo of your brother
