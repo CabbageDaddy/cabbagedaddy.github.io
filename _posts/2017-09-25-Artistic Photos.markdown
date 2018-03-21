@@ -18,38 +18,33 @@ tags:
 <br>
 <br>I don't know why the Photographer like nude, anyway like she is.
 
-![img](/img/post-20170825-1.JPG)
+![img](/img/post-20170925-1.jpg)
 
-<br>But the result is this!
-![img](/img/post-20170825-2.JPG)
+<br>But maybe you don't like this...
+![img](/img/post-20170925-2.jpg)
 
 
-## "Chapter 2" 
-<br>
-<br>Your brother said:"a girl looks even better with a nice smell."
-<br>"Edit Winky's picture now! Hurry up."
+## "How do you love me" 
 
-Before
-![img](/img/post-20170825-3.JPG)
+When i outskirt you, you always laughing out loud.
+![img](/img/post-20170925-3.jpg)
 
-<br>After!
-![img](/img/post-20170825-4.JPG)
+<br>You always Sleep well in my embrace.
+![img](/img/post-20170925-4.jpg)
 
-## "Chapter 3" 
+## "This is our family" 
 <br>
 <br>Your brother photoshoped your pictures. 
-![img](/img/post-20170825-5.JPG)
+![img](/img/post-20170925-5.jpg)
 
 
-## PS:
-<br>This is a photo of your brother.
-![img](/img/post-20170825-6.JPG)
-<br>Sorry! Sorry! the picture is wrong.
-<br>It is him now.
-![img](/img/post-20170825-7.JPG)
+## This picture named "father's back"
 
-## "Father's Talk" 
-<br>"Hi, Winky Brother:" 
-![img](/img/post-20170825-8.JPG)
+![img](/img/post-20170925-6.jpg)
+
+
+## "The End" 
+<br>"LoL" 
+![img](/img/post-20170925-7.jpg)
 
 
