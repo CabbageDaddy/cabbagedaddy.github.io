@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Artistic Photos"
-subtitle:   "In fact, you have a brother."
+subtitle:   "How pretty 100 Days Old"
 date:       2017-09-25 10:35:00
 author:     "Max"
 header-img: "img/post-20170925-0.JPG"
@@ -10,13 +10,13 @@ tags:
 
 ---
 
-> “Welcome come to Cabbage daddy's world”
+> “Today is princess day”
 
 
-## "Chapter 1"  
+## "Makeup!"  
 
 <br>
-<br>Your brother send me a picture of a baby’s cheek pinched into little ball. It was so cute. He ask me to do the same thing to you. So I did.
+<br>I don't know why the Photographer like nude, anyway like she is.
 
 ![img](/img/post-20170825-1.JPG)
 
