@@ -1,20 +1,21 @@
 ---
 layout:     post
-title:      "Artistic Photos"
-subtitle:   "How pretty 100 Days Old"
-date:       2017-09-25 10:35:00
+title:      "You and Me"
+subtitle:   "Are now in love"
+date:       2018-02-25 10:35:00
 author:     "Max"
-header-img: "img/post-20170925-0.jpg"
+header-img: "img/post-20180225-0.jpg"
 catalog: true
 tags:
 
 ---
 
-> “Today is princess day”
+> “当你第一次笑的时候，当你第一次叫我爸爸的时候，当你东摇西晃的学着走路的时候，我心里都会这样想着：为了这个女儿，要我牺牲生命我都在所不惜。无论将来你发生了任何的意外，我一定会不顾自己的性命，跑去救你”
 
 
 ## "Makeup!"  
 
+<embed height="100" width="100" src="img/baba.m4a" />
 <br>
 <br>I didn’t know why the photographer like to take naked photos. 
 <br>I have to listen to her because she was professional. 
@@ -35,12 +36,11 @@ When I came closer to you, you always laugh. Your little cute smile always melts
 
 ## "This is our family" 
 <br>
-
+<br>Your brother photoshoped your pictures. 
 ![img](/img/post-20170925-5.jpg)
 
 
-## This picture is named "Father's Back"
-
+## This picture named "father's back"
 
 ![img](/img/post-20170925-6.jpg)
 
