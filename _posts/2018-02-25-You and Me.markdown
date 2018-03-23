@@ -19,9 +19,8 @@ tags:
 
 
 img
-<audio src="[/img/baba.mp3]" preload controls></audio>
-http
-<audio src="[https://winky.wang/img/baba.mp3]" preload controls></audio>
+<audio src="img/baba.mp3" preload controls></audio>
+
 <br>
 <br>I didn’t know why the photographer like to take naked photos. 
 <br>I have to listen to her because she was professional. 
