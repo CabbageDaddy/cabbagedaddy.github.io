@@ -17,13 +17,9 @@ tags:
 
 
 
-<embed src=img/baba.mp3 width=300 height=45 type=audio/mpeg loop="-1" autostart="false" volume="0"></embed> 
 
 
-
-<br>王玮
-
-<audio src="[mp3 link]" preload controls></audio>
+<audio src="[img/baba.mp3]" preload controls></audio>
 
 <br>
 <br>I didn’t know why the photographer like to take naked photos. 
