@@ -18,6 +18,9 @@ tags:
 
 
 
+
+
+
 img
 <audio src="img/baba.mp3" preload controls></audio>
 
@@ -51,7 +54,9 @@ When I came closer to you, you always laugh. Your little cute smile always melts
 
 
 ## "The End" 
-<br>"LoL" 
-![img](/img/post-20170925-7.jpg)
+<br>"I Love You my daughter" 
+<audio src="{{ site.url }}{{ site.baseurl }}/img/baba.mp3" preload controls></audio>
+
+
 
 

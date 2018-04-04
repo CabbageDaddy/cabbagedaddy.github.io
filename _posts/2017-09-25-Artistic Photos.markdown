@@ -4,7 +4,7 @@ title:      "Artistic Photos"
 subtitle:   "How pretty 100 Days Old"
 date:       2017-09-25 10:35:00
 author:     "Max"
-header-img: "img/post-20170925-0.jpg"
+header-img: "/img/post-20170925-0.jpg"
 catalog: true
 tags:
 
@@ -14,10 +14,7 @@ tags:
 
 
 ## "Makeup!"  
-晨阳
-<audio src="{{ site.url }}{{ site.baseurl }}/img/baba.mp3" preload controls></audio>
 
-test
 
 <br>
 <br>I didn’t know why the photographer like to take naked photos. 
