@@ -10,51 +10,51 @@ tags:
 
 ---
 
-> “当你第一次笑的时候，当你第一次叫我爸爸的时候，当你东摇西晃的学着走路的时候，我心里都会这样想着：为了这个女儿，要我牺牲生命我都在所不惜。无论将来你发生了任何的意外，我一定会不顾自己的性命，跑去救你”
+> 
+<b>当你第一次笑的时候，当你第一次叫我爸爸的时候，当你东摇西晃的学着走路的时候，我心里都会这样想着：为了这个女儿，要我牺牲生命我都在所不惜。无论将来你发生了任何的意外，我一定会不顾自己的性命，跑去救你</b>
+
+## "关于你我"
+<br>很高兴你能来到我的身边，
+
+## "关于成长"  
+
+<br>我一度担心你的成长，担心你会走偏。
+<br>比如初中盲目追星啦，高中就要辍学搞音乐啦，未成年发生性关系啦；
+<br>经过多次与你妈妈的交流，最终形成了如下这样，对你实施的“保护”
+<br>我会始终保持这样的态度：
+<br>首先，尊重你的决定
+<br>然后，尽力陪你感受世间的一切美好与丑恶，让“见过世面”的你，做自己决定好的事
+<br>最后，在你成年前，确保你不会做出无法挽回、自己无法承担后果的，我认为的错误事件
 
 
-## "Makeup!"  
 
 
 
 
 
+## "关于人生" 
 
 
-img
-<audio src="img/baba.mp3" preload controls></audio>
-
-<br>
-<br>I didn’t know why the photographer like to take naked photos. 
-<br>I have to listen to her because she was professional. 
-
-![img](/img/post-20170925-1.jpg)
-
-<br>But maybe you don't like this...
-![img](/img/post-20170925-2.jpg)
+<br>作为父亲，我会陪你一起去守护你所有的决定；
+<br>当你受挫了，我就等着你回来哭一场；
+<br>如果你忍住不哭，好，那我就做一桌好吃的给你吃，让你感受到：爸爸永远都陪着你；
+<br>总之，我想告诉你，一切有我；
 
 
-## "How much do you love me?" 
+## "关于爱情" 
+<br>自从我得知你即将出现在我身边后，有一个问题始终困扰这我：“当你及笄之年，我是否能直面你找到自己爱的人，与他组成新的家庭，离开我的生活”这个事情。
+<br>直到我看到了你，陪伴你慢慢成长。我渐渐了解到了我的顾虑：
+<br>不愿你离开，仅仅是担心你得不到幸福，担心世界上再没有一个男性（我不敢保证我对你的爱比你妈妈多），可以给你更多的爱。
+<br>我一定是最希望你幸福的人
+<br>希望你能够有一个没有遗憾的婚姻
+<br>希望你能够有一个比我更爱你的，能一直陪伴你度过后半生的人
+<br>你的婚礼，应该是昂首挺胸的，特别硬气的，憧憬的，好像赢了一样。
+<br>那天什么时候到来我不知道
+<br>但我会和你站在一起。
+<br>因为我是你的父亲，你在我这里，只能幸福，别的都不行。
 
-When I came closer to you, you always laugh. Your little cute smile always melts my heart
-![img](/img/post-20170925-3.jpg)
-
-<br>You always Sleep well in my embrace.
-![img](/img/post-20170925-4.jpg)
-
-## "This is our family" 
-<br>
-<br>Your brother photoshoped your pictures. 
-![img](/img/post-20170925-5.jpg)
-
-
-## This picture named "father's back"
-
-![img](/img/post-20170925-6.jpg)
-
-
-## "The End" 
-<br>"I Love You my daughter" 
+## "I Love You, my daughter" 
+<br>"我的心，在此刻融化" 
 <audio src="{{ site.url }}{{ site.baseurl }}/img/baba.mp3" preload controls></audio>
 
 

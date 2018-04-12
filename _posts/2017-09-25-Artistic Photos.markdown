@@ -16,7 +16,6 @@ tags:
 ## "Makeup!"  
 
 
-<br>
 <br>I didn’t know why the photographer like to take naked photos. 
 <br>I have to listen to her because she was professional. 
 
@@ -31,18 +30,14 @@ tags:
 When I came closer to you, you always laugh. Your little cute smile always melts my heart
 ![img](/img/post-20170925-3.jpg)
 
-<br>You always Sleep well in my embrace.
+## You always Sleep well in my embrace.
 ![img](/img/post-20170925-4.jpg)
 
 ## "This is our family" 
-<br>
-
 ![img](/img/post-20170925-5.jpg)
 
 
 ## This picture is named "Father's Back"
-
-
 ![img](/img/post-20170925-6.jpg)
 
 
