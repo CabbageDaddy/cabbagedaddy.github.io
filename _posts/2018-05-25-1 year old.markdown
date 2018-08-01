@@ -26,7 +26,6 @@ tags:
 
 <img src="/img/post-20180525-1.jpg"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20180525-2.jpg"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
-<img src="/img/post-20180225-3.jpg"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20180225-4.jpg"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 ## "一周岁留念" 
 
