@@ -30,7 +30,7 @@ tags:
 <br>还是我闺女疼我，你妈妈只会等着吃~
 ![img](/img/post-20190205-4.jpg)
 
-##来宜家玩
+## 来宜家玩
 
 <br>带你去五棵松玩，由于没提前做好功课，错过了游乐场，只好带你瞎逛，在宜家里溜达了一上午。还好，看样子你没怎么厌烦。
 ![img](/img/post-20190205-5.jpg)
@@ -41,7 +41,7 @@ tags:
 
 <img src="/img/post-20190205-6.jpg"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20190205-7.jpg"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
-<br>爱你的爸爸
+<br>还有爱你的爸爸
 ![img](/img/post-20190205-8.jpg)
 
 
