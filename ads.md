@@ -1,4 +1,10 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+---
+layout: default
+description: "lalal"
+header-img: "img/404-bg.jpg"
+permalink: /404.html
+---
+
 
 #广告逻辑
 -
