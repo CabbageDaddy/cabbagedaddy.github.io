@@ -1,3 +1,5 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 #广告逻辑
 -
 用户前三次连接成功之前，不进行任何广告请求和展示。 19.1.25新增
