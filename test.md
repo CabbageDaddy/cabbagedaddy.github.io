@@ -1,4 +1,8 @@
 <style type="text/css">
+nav.navbar {
+	display: none;
+}
+
 header {
 	display: none;
 }
