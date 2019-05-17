@@ -1,4 +1,8 @@
-
+<style type="text/css">
+header {
+	display: none;
+}
+</style>
 
 
 #广告逻辑
