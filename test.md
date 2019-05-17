@@ -1,16 +1,12 @@
 <style type="text/css">
-nav.navbar {
-	display: none;
-}
-
-header {
+nav.navbar, header {
 	display: none;
 }
 </style>
 
 
-#广告逻辑
--
+# 广告逻辑
+
 用户前三次连接成功之前，不进行任何广告请求和展示。 19.1.25新增
 
 
