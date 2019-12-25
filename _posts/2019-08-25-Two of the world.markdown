@@ -29,10 +29,10 @@ tags:
 <br>咱俩还一起去了北坞公园、动物园、田村山，期间我仔细研究了《如何把闺女拍好看》这个课题
 <br>以下是成果对比
 
-<img src="/img/post-20190825-4.jpg"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20190825-5.jpg"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
-<img src="/img/post-20190825-6.jpg"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20190825-7.jpg"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20190825-4.jpg"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20190825-6.jpg"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20190825-5.jpg"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20190825-7.jpg"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
-<br>独自带你，担心忙不过来的问题，从未出现
+<br>独自带你，担心忙不过来的问题，从未出现~
 <br>我做饭时，你自己在客厅看书，从不吵闹~
 <br>我喂你吃饭时，你劝我也吃，你自己已经长大了，可以自己吃~
 <br>洗澡洗屁时，只能爸爸来，因为只喜欢爸爸~
