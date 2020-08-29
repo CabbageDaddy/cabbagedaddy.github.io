@@ -21,7 +21,7 @@ tags:
 <br>当时你坐在我身边，给我唱刚刚学会的歌曲
 <br>就在那一刻，我感觉全世界的幸福都包裹住了我，我真的好温暖，好幸福
 
-<h3>这首歌一定要边听边看，全是美好</h3>>
+<h3>这首歌一定要听完，全是美好</h3>>
 <video width="640" height="480" controls="controls">
   <source src="/img/post-20200721-1.mp4" type="video/mp4" />
   <source src="movie.ogg" type="video/ogg" />
