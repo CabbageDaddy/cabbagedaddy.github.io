@@ -20,11 +20,8 @@ tags:
 <br>翻了翻相册，这是你们俩来广州陪我出差时候，拍摄的
 <br>当时你坐在我身边，给我唱刚刚学会的歌曲
 <br>就在那一刻，我感觉全世界的幸福都包裹住了我，我真的好温暖，好幸福
-![mp4](/img/post-20200721-1.mp4)
-<br>test
-<audio src="{{ site.url }}{{ site.baseurl }}/img/post-20200721-1.mp4" preload controls></audio>
 
-<br>video标签
+<br>这首歌一定要边听边看，全是美好
 <video width="320" height="240" controls="controls">
   <source src="/img/post-20200721-1.mp4" type="video/mp4" />
   <source src="movie.ogg" type="video/ogg" />
