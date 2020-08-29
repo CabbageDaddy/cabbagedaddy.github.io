@@ -22,7 +22,7 @@ tags:
 <br>就在那一刻，我感觉全世界的幸福都包裹住了我，我真的好温暖，好幸福
 
 <br>这首歌一定要边听边看，全是美好
-<video width="320" height="240" controls="controls">
+<video width="640" height="480" controls="controls">
   <source src="/img/post-20200721-1.mp4" type="video/mp4" />
   <source src="movie.ogg" type="video/ogg" />
   <source src="movie.webm" type="video/webm" />
