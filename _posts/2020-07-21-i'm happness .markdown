@@ -24,11 +24,13 @@ tags:
 <br>test
 <audio src="{{ site.url }}{{ site.baseurl }}/img/post-20200721-1.mp4" preload controls></audio>
 
-<br>优酷
-<embed src="/img/post-20200721-1.mp4" 
-width="480" height="400" 
-type="application/x-shockwave-flash">
-</embed>
+<br>video标签
+<video width="320" height="240" controls="controls">
+  <source src="/img/post-20200721-1.mp4" type="video/mp4" />
+  <source src="movie.ogg" type="video/ogg" />
+  <source src="movie.webm" type="video/webm" />
+Your browser does not support the video tag.
+</video>
 
 
 
