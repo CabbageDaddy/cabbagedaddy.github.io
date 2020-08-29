@@ -2,7 +2,7 @@
 layout:     post
 title:      "I'm so happness"
 subtitle:   "I thought of you when I worked overtime."
-date:       2020-06-21 20:00:00
+date:       2020-07-21 20:00:00
 author:     "Max"
 header-img: "img/post-20200721-0.jpg"
 catalog: true
@@ -23,6 +23,12 @@ tags:
 ![mp4](/img/post-20200721-1.mp4)
 <br>test
 <audio src="{{ site.url }}{{ site.baseurl }}/img/post-20200721-1.mp4" preload controls></audio>
+
+<br>优酷
+<embed src="/img/post-20200721-1.mp4" 
+width="480" height="400" 
+type="application/x-shockwave-flash">
+</embed>
 
 
 
