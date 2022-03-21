@@ -32,7 +32,10 @@ tags:
 <img src="/img/post-20201025-3.jpg"  alt="图片说明" width="30%" style="display: inline-block;" ><img src="/img/post-20201025-4.jpg"  alt="图片说明" width="53%" style="display: inline-block; margin-left: 10px;"> 
 
 <h4>最后一张</h4>
-<br>你坐在车后座，我推着车爬大高坡。我说要累死了，你说：爸爸，以后我长大了，我就推着你~
+<br>你坐在车后座，我推着车爬大高坡。
+<br>我说要累死了。
+<br>你说：爸爸，以后我长大了，我就推着你~
+<br>我真是无比的幸福哦~
 ![img](/img/post-20201025-5.jpg)
 
 
