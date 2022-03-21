@@ -20,19 +20,19 @@ tags:
 
 <br>第一次包馅饼（玩面团）
 <br>
-![img](/img/post-20210128-1.jpg)
+![img](/img/post-20210128-1.JPG)
 
 <br>第一次看音乐剧（放屁大象，在首图）
 <br>
-![img](/img/post-20210128-2.jpg)
+![img](/img/post-20210128-2.JPG)
 
 <br>第一次画爸爸
 <br>
-![img](/img/post-20210128-3.jpg)
+![img](/img/post-20210128-3.JPG)
 
 <br>第一次给我过生日
 <br>
-![img](/img/post-20210128-4.jpg)
+![img](/img/post-20210128-4.JPG)
 
 <br>最后的是你第一次玩游戏机~
 <br>
