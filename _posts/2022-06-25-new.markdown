@@ -23,7 +23,7 @@ tags:
 
 <br>你浑身都湿透啦
 <br>
-<img src="/img/post-20220625-3.jpg"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20220625-4.jpg"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20220625-3.JPG"  alt="图片说明" width="45%" style="display: inline-block;" ><img src="/img/post-20220625-4.JPG"  alt="图片说明" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <br>最后是咱们玩一上午的成果，你的小脚丫被太阳晒出了一个个“小网格”~
