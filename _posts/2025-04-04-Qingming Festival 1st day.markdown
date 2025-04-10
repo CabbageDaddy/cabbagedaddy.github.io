@@ -21,7 +21,7 @@ tags:
 <br>相较来说，我好丑呀
 ![img](/img/post-20250404-2.JPG)
 <br>第三张图片是列车运行时期，你的小表情~
-![img](/img/post-20250404-1.gif)
+![gif](/img/post-20250404-1.gif)
 
 <br>抓娃娃，你抓到了一只可达鸭
 ![img](/img/post-20250404-3.JPG)
