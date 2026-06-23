@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "闪闪的成长日记",
+  "short_name": "闪闪日记",
+  "description": "她是一个活泼可爱的家养小精灵",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
