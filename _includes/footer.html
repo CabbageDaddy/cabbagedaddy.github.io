@@ -82,11 +82,11 @@
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
                     <br>
-                    Theme by <a href="http://huangxuan.me">Hux</a> |
+                    Theme by <a href="https://huangxuan.me">Hux</a> |
                     <iframe
                         style="margin-left: 2px; margin-bottom:-5px;"
                         frameborder="0" scrolling="0" width="100px" height="20px"
-                        src="https://ghbtns.com/github-btn.html?user=huxpro&repo=huxpro.github.io&type=star&count=true" >
+                        src="https://ghbtns.com/github-btn.html?user=CabbageDaddy&repo=cabbagedaddy.github.io&type=star&count=true" >
                     </iframe>
                 </p>
             </div>
@@ -119,11 +119,12 @@
 
 <!-- async load function -->
 <script>
-    function async(u, c) {
+    function async(u, c, integrity) {
       var d = document, t = 'script',
           o = d.createElement(t),
           s = d.getElementsByTagName(t)[0];
       o.src = u;
+      if (integrity) { o.integrity = integrity; o.crossOrigin = 'anonymous'; }
       if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
       s.parentNode.insertBefore(o, s);
     }
@@ -165,10 +166,10 @@
 
 <!--fastClick.js -->
 <script>
-    async("//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js", function(){
+    async("https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js", function(){
         var $nav = document.querySelector("nav");
         if($nav) FastClick.attach($nav);
-    })
+    }, "sha384-qSrEYLMHSuUya7HioxgwmVKxoqyVbT2Xmu87cJyVwFm1oq4M6Tz5lcdiFrOrS93l")
 </script>
 
 
