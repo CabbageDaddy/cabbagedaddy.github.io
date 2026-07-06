@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "周末日常"
+title:      "Weekend Routine"
 subtitle:   "2026.6 W4"
 date:       2026-06-27 20:00:00
 author:     "Max"
