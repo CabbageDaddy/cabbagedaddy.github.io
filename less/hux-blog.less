@@ -1028,3 +1028,17 @@ img::-moz-selection {
 
 
 
+
+// ---- 点击态：鼠标点击不留焦点框，键盘 Tab 仍可见（保留无障碍） ----
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+	outline: none;
+}
+.post-preview > a:focus:not(:focus-visible) {
+	color: @gray-dark;
+}
+// 移动端点击时不出现半透明高亮块
+a,
+button {
+	-webkit-tap-highlight-color: transparent;
+}
