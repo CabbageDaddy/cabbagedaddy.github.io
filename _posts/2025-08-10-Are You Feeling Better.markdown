@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Are You Feeling Better?"
+title:      "I cried"
 subtitle:   "Her First Time Asking After Me"
 date:       2025-08-10 09:00:00
 author:     "Max"
