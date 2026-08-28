@@ -30,3 +30,12 @@ tags:
 <img src="/img/post-20251101-4.JPG"  alt="自己扮鬼" width="45%" style="display: inline-block;" ><img src="/img/post-20251101-5.JPG"  alt="自己扮鬼" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
+<h3>全身照</h3> 
+最后来两张全身照，留个纪念。
+<br>
+![img](/img/post-20251101-6.JPG)
+<br>
+<br>
+![img](/img/post-20251101-7.JPG)
+
+
