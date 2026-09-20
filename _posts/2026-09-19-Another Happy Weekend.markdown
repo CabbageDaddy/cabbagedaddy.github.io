@@ -41,9 +41,6 @@ tags:
 <h3>你的摄影创作</h3> 
 最后附上你的摄影创作。
 <br>
-![img](/img/post-20260919b-5.JPG)
-<br>
-<br>
-![img](/img/post-20260919b-6.JPG)
+<img src="/img/post-20260919b-5.JPG"  alt="摄影创作" width="45%" style="display: inline-block;" ><img src="/img/post-20260919b-6.JPG"  alt="摄影创作" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
