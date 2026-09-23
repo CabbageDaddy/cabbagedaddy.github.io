@@ -33,7 +33,7 @@ tags:
 
 <br>自从有了你，我每晚其实都是这样的：
 <br>
-<video controls preload="metadata" poster="/img/post-20250420-8.JPG" style="width: 100%; max-width: 380px; height: auto;">
+<video controls preload="metadata" poster="/img/post-20250420-8.JPG" style="width: 100%; max-width: 420px; height: auto;">
   <source src="/video/post-20250420-1.mp4" type="video/mp4">
   你的浏览器不支持在线播放，<a href="/video/post-20250420-1.mp4">点这里下载视频</a>。
 </video>
