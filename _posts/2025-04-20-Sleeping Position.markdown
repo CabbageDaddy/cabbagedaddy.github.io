@@ -30,3 +30,10 @@ tags:
 ![img](/img/post-20250420-7.JPG)
 
 <br>另外，不管天多热，你全年都要穿着秋衣、盖着被子睡觉。夏天晚上，你出的汗能把整个枕头浸湿，我得给你撩起被子，露出腿和上半身，再给你扇扇子。可不管怎么热，你都要穿个跨栏儿背心。
+
+<br>自从有了你，我每晚其实都是这样的：
+<br>
+<video controls preload="metadata" poster="/img/post-20250420-8.JPG" style="width: 100%; max-width: 380px; height: auto;">
+  <source src="/video/post-20250420-1.mp4" type="video/mp4">
+  你的浏览器不支持在线播放，<a href="/video/post-20250420-1.mp4">点这里下载视频</a>。
+</video>
