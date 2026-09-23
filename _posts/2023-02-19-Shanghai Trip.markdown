@@ -54,6 +54,8 @@ tags:
 
 <h3>黄浦江边的上海潮流文化</h3> 
 还在黄浦江边，看到了上海的潮流文化。
+
+有街舞，有滑板，还第一次看到宠物公园。你超级喜欢看街舞的 freestyle，我当时就在想：如果我走上前去，也即兴跳一段，你会不会超级崇拜我呀！哈哈哈
 <br>
 <video controls preload="metadata" poster="/img/post-20230219-10.JPG" style="width: 100%; max-width: 420px; height: auto;">
   <source src="/video/post-20230219-1.mp4" type="video/mp4">
