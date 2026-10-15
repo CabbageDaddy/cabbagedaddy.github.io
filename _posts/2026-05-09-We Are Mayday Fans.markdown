@@ -4,7 +4,7 @@ title:      "We Are Mayday Fans"
 subtitle:   "Her First Concert"
 date:       2026-05-09 22:30:00
 author:     "Max"
-header-img: "img/post-20260509-0.JPG"
+header-img: "img/post-20260509-0.webp"
 catalog: true
 tags:
 
@@ -17,25 +17,25 @@ tags:
 
 很荣幸，陪你来看了人生第一场演唱会。
 <br>
-<img src="/img/post-20260509-1.JPG"  alt="演唱会" width="45%" style="display: inline-block;" ><img src="/img/post-20260509-2.JPG"  alt="演唱会" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260509-1.webp"  alt="演唱会" width="45%" style="display: inline-block;" ><img src="/img/post-20260509-2.webp"  alt="演唱会" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <h3>开场了</h3> 
 开场以后，你听得特别认真。
 <br>
-![img](/img/post-20260509-3.JPG)
+![img](/img/post-20260509-3.webp)
 
 
 <h3>荧光棒亮起来</h3> 
 天渐渐暗下来，荧光棒可以挥起来了。
 <br>
-<img src="/img/post-20260509-4.JPG"  alt="荧光棒" width="45%" style="display: inline-block;" ><img src="/img/post-20260509-5.JPG"  alt="荧光棒" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260509-4.webp"  alt="荧光棒" width="45%" style="display: inline-block;" ><img src="/img/post-20260509-5.webp"  alt="荧光棒" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <h3>白白啦，五月天</h3> 
 完美的一个晚上。白白啦，五月天，明年我们再见。
 <br>
-<img src="/img/post-20260509-6.JPG"  alt="散场回家" width="45%" style="display: inline-block;" ><img src="/img/post-20260509-7.JPG"  alt="散场回家" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260509-6.webp"  alt="散场回家" width="45%" style="display: inline-block;" ><img src="/img/post-20260509-7.webp"  alt="散场回家" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <h3>PS</h3> 

@@ -4,7 +4,7 @@ title:      "I cried"
 subtitle:   "Her First Time Asking After Me"
 date:       2025-08-10 09:00:00
 author:     "Max"
-header-img: "img/post-20260126-0.JPG"
+header-img: "img/post-20260126-0.webp"
 catalog: true
 tags:
 
@@ -17,7 +17,7 @@ tags:
 
 一宿过去，早上我起来，一打开门，你以超难度姿势躺在沙发上，若无其事的问我：“爸爸，你醒啦，您还难受吗？”
 <br>
-![img](/img/post-20260126-1.JPG)
+![img](/img/post-20260126-1.webp)
 <br>
 我瞬间泪崩，这是你第一次关心问候我哦，我好开心呀
 

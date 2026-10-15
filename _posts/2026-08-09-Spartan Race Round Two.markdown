@@ -4,7 +4,7 @@ title:      "Spartan Race, Round Two"
 subtitle:   "9-10 Age Group"
 date:       2026-08-09 20:00:00
 author:     "Max"
-header-img: "img/post-20260809-0.JPG"
+header-img: "img/post-20260809-0.webp"
 catalog: true
 tags:
 
@@ -15,10 +15,10 @@ tags:
 <h3>第二次斯巴达</h3> 
 今年是你第二次参加斯巴达精英赛，打的是 9～10 岁年龄组。关卡难度比去年明显上了一个台阶，你还是一关一关全都过了，顺利完赛。
 <br>
-<img src="/img/post-20260809-1.JPG"  alt="斯巴达赛道" width="45%" style="display: inline-block;" ><img src="/img/post-20260809-2.JPG"  alt="斯巴达赛道" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260809-1.webp"  alt="斯巴达赛道" width="45%" style="display: inline-block;" ><img src="/img/post-20260809-2.webp"  alt="斯巴达赛道" width="45%" style="display: inline-block; margin-left: 10px;"> 
 <br>
 <br>
-<img src="/img/post-20260809-3.JPG"  alt="斯巴达赛道" width="45%" style="display: inline-block;" ><img src="/img/post-20260809-4.JPG"  alt="斯巴达赛道" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260809-3.webp"  alt="斯巴达赛道" width="45%" style="display: inline-block;" ><img src="/img/post-20260809-4.webp"  alt="斯巴达赛道" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <h3>水池关</h3> 
@@ -30,21 +30,21 @@ tags:
 
 当我在水面另一头看到你露出头来，真的太感动了。我的女儿战胜了一个特别大的困难，她真的太棒了。顺便我心里也偷偷高兴了一下：在你成功的背后，也有我给你的那份鼓励。
 <br>
-![img](/img/post-20260809-5.JPG)
+![img](/img/post-20260809-5.webp)
 
 
 <h3>几张帅照</h3> 
 最后再放上几张你的帅照。我为你自豪，我的女儿。
 <br>
-<img src="/img/post-20260809-8.JPG"  alt="斯巴达帅照" width="45%" style="display: inline-block;" ><img src="/img/post-20260809-9.JPG"  alt="斯巴达帅照" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260809-8.webp"  alt="斯巴达帅照" width="45%" style="display: inline-block;" ><img src="/img/post-20260809-9.webp"  alt="斯巴达帅照" width="45%" style="display: inline-block; margin-left: 10px;"> 
 <br>
 <br>
-![img](/img/post-20260809-6.JPG)
+![img](/img/post-20260809-6.webp)
 <br>
 <br>
-![img](/img/post-20260809-7.JPG)
+![img](/img/post-20260809-7.webp)
 <br>
 <br>
-![img](/img/post-20260809-10.JPG)
+![img](/img/post-20260809-10.webp)
 
 

@@ -4,7 +4,7 @@ title:      "A One-Day Weekend"
 subtitle:   "Fifteen Words and Three Cries"
 date:       2026-10-11 22:00:00
 author:     "Max"
-header-img: "img/post-20261011-0.JPG"
+header-img: "img/post-20261011-0.webp"
 catalog: true
 tags:
 
@@ -37,10 +37,10 @@ tags:
 <h3>咱们做的美味</h3> 
 这些是咱们做的美味。面包是你完全独自完成的，超级厉害。
 <br>
-![img](/img/post-20261011-1.JPG)
+![img](/img/post-20261011-1.webp)
 <br>
 <br>
-<img src="/img/post-20261011-2.JPG"  alt="咱们做的菜" width="45%" style="display: inline-block;" ><img src="/img/post-20261011-3.JPG"  alt="咱们做的菜" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20261011-2.webp"  alt="咱们做的菜" width="45%" style="display: inline-block;" ><img src="/img/post-20261011-3.webp"  alt="咱们做的菜" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <h3>后记</h3> 

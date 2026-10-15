@@ -4,7 +4,7 @@ title:      "The Week Before School"
 subtitle:   "Guozijian and a Chance Meeting"
 date:       2026-08-30 20:00:00
 author:     "Max"
-header-img: "img/post-20260830-0.JPG"
+header-img: "img/post-20260830-0.webp"
 catalog: true
 tags:
 
@@ -21,19 +21,19 @@ tags:
 <h3>一起看研学课题</h3> 
 你俩凑在一起看研学课题。
 <br>
-![img](/img/post-20260830-1.JPG)
+![img](/img/post-20260830-1.webp)
 
 
 <h3>你在自拍</h3> 
 你在自拍。
 <br>
-<img src="/img/post-20260830-2.JPG"  alt="自拍" width="45%" style="display: inline-block;" ><img src="/img/post-20260830-3.JPG"  alt="自拍" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260830-2.webp"  alt="自拍" width="45%" style="display: inline-block;" ><img src="/img/post-20260830-3.webp"  alt="自拍" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <h3>第二天去「一工厂」</h3> 
 第二天你们又一起去了「一工厂」。我忘了拍照啦，只留下一张睦家攀岩的照片。
 <br>
-![img](/img/post-20260830-4.JPG)
+![img](/img/post-20260830-4.webp)
 
 
 <h3>这周的两顿饭</h3> 
@@ -47,6 +47,6 @@ tags:
 <h3>回眸一笑</h3> 
 最后，附上你的回眸一笑。
 <br>
-![img](/img/post-20260830-5.JPG)
+![img](/img/post-20260830-5.webp)
 
 

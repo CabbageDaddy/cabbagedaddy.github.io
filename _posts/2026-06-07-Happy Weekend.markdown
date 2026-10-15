@@ -4,7 +4,7 @@ title:      "Happy Weekend"
 subtitle:   "Fishing at Langyuan Park"
 date:       2026-06-07 20:00:00
 author:     "Max"
-header-img: "img/post-20260607-0.JPG"
+header-img: "img/post-20260607-0.webp"
 catalog: true
 tags:
 
@@ -15,7 +15,7 @@ tags:
 <h3>早上做水果班戟</h3> 
 周末的早晨，咱俩一起做了水果班戟。你负责铺奶油、摆水果、卷饼皮，做得有模有样。
 <br>
-<img src="/img/post-20260607-1.JPG"  alt="水果班戟" width="45%" style="display: inline-block;" ><img src="/img/post-20260607-2.JPG"  alt="水果班戟" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260607-1.webp"  alt="水果班戟" width="45%" style="display: inline-block;" ><img src="/img/post-20260607-2.webp"  alt="水果班戟" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <h3>太阳雨里出门</h3> 
@@ -25,18 +25,18 @@ tags:
 <h3>你可能是钓鱼圣手</h3> 
 重头戏是钓鱼。你前半个小时就钓上来三条。后来鱼线被旁边的人缠住，换了一根杆子，就再也没钓上来。
 <br>
-<img src="/img/post-20260607-3.JPG"  alt="郎园钓鱼" width="45%" style="display: inline-block;" ><img src="/img/post-20260607-4.JPG"  alt="郎园钓鱼" width="45%" style="display: inline-block; margin-left: 10px;"> 
+<img src="/img/post-20260607-3.webp"  alt="郎园钓鱼" width="45%" style="display: inline-block;" ><img src="/img/post-20260607-4.webp"  alt="郎园钓鱼" width="45%" style="display: inline-block; margin-left: 10px;"> 
 
 
 <h3>盐酥鸡和秋千</h3> 
 这时雨停了。咱俩吃了盐酥鸡，又荡了会儿秋千，就准备回家。
 <br>
-![img](/img/post-20260607-5.JPG)
+![img](/img/post-20260607-5.webp)
 
 
 <h3>路过大银杏树</h3> 
 路过大银杏树，拍照留念。
 <br>
-![img](/img/post-20260607-6.JPG)
+![img](/img/post-20260607-6.webp)
 
 

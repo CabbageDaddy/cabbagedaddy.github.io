@@ -4,7 +4,7 @@ title:      "Better Safe Than Sorry"
 subtitle:   "My Careful Little Girl"
 date:       2021-08-16 20:00:00
 author:     "Max"
-header-img: "img/post-20210816-0.JPG"
+header-img: "img/post-20210816-0.webp"
 catalog: true
 tags:
 
@@ -23,7 +23,7 @@ tags:
 
 谁劝也不好使。直到我赶紧给你买了这本书，讲清楚了吞咽的原理，告诉你只要不打闹，正常吃饭是不会卡死的，你才恢复好好吃饭。
 <br>
-![img](/img/post-20210816-1.JPG)
+![img](/img/post-20210816-1.webp)
 
 
 <h3>亲眼确认保质期</h3> 
@@ -39,6 +39,6 @@ tags:
 <h3>掉小金豆儿</h3> 
 最后放一张你可爱的掉小金豆儿的照片～
 <br>
-![img](/img/post-20210816-2.JPG)
+![img](/img/post-20210816-2.webp)
 
 
